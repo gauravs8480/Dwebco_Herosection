@@ -1,0 +1,19 @@
+{
+  "name": "threejs-shader-demo",
+  "version": "1.0.0",
+  "description": "Three.js shader demo with custom vertex and fragment shaders",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.12.7",
+    "three": "^0.160.0",
+    "vite-plugin-glsl": "^1.4.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
